@@ -1,2 +1,6 @@
 # scRNA Data Simulation Comparison
 
+| Methods   | Language | Year | Github                                      | Executable | Maintenance | Colab Link                                                                                                                     | Paper                                                                              |
+| --------- | -------- | ---- | ------------------------------------------- | ---------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| Splatter  | R        | 2018 | [link](https://github.com/Oshlack/splatter) | Yes        | Yes         | [link](https://colab.research.google.com/drive/1a83m9belgk2PPq2yU5CNM4PAEXeOAKfS?usp=sharing)                                  | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1305-0) |
+| ZINB-WaVE | R        | 2018 | [link](https://github.com/drisso/zinbwave)  | Yes        | Yes         | [link](https://colab.research.google.com/github/inoue0426/scRNA-Data-Simulation-Comparison/blob/main/notebooks/zinbwave.ipynb) | [link](https://www.nature.com/articles/s41467-017-02554-5)                         |
